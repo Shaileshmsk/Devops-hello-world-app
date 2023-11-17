@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<p>This employee address element defines contact information (author/owner) of a document or article.</p>
+<p>Provide the employee imformation (author/owner) of a document or article.</p>
 
 <address>
 Written by John Doe.<br> 
