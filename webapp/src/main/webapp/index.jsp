@@ -7,9 +7,7 @@
 <address>
 Written by John Doe.<br> 
 Visit us at:<br>
-Example.com
-Box 564, Disneyland
-USA
+LIG 1197, MPHB colocny
 </address>
 
 </body>
